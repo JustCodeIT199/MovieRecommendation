@@ -149,7 +149,7 @@ Render cards with st.image() + TMDB link
 ```
 movie-recommender/
 │
-├── app.py                  # Streamlit frontend
+├── Main.py                  # Streamlit frontend
 ├── MovieRecommendation.ipynb  # Data preprocessing & model building
 ├── movies_dict.pkl         # Serialised movies DataFrame
 ├── similarity.pkl          # Precomputed cosine similarity matrix
@@ -191,7 +191,7 @@ Run all cells in `MovieRecommendation.ipynb`. This will create:
 ### 4. Run the App
 
 ```bash
-streamlit run app.py
+streamlit run Main.py
 ```
 
 ### 5. Enter Your TMDB API Key
