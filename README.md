@@ -11,7 +11,7 @@ A **content-based movie recommendation system** that suggests similar movies usi
 
 ---
 
-## ✨ Features
+## Features
 
 - Search from a dataset of 45,000+ movies
 - Get 5 content-based recommendations instantly
